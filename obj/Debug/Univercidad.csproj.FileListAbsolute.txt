@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Univercidad\Univercidad\obj\Debug\Univercidad.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Univercidad\Univercidad\bin\Debug\Univercidad.exe.config
+C:\Users\Administrator\source\repos\Univercidad\Univercidad\bin\Debug\Univercidad.exe
+C:\Users\Administrator\source\repos\Univercidad\Univercidad\bin\Debug\Univercidad.pdb
+C:\Users\Administrator\source\repos\Univercidad\Univercidad\obj\Debug\Univercidad.exe
+C:\Users\Administrator\source\repos\Univercidad\Univercidad\obj\Debug\Univercidad.pdb
